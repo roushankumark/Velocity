@@ -455,6 +455,7 @@ video {
   font-weight: 600;
   line-height: 20px;
   margin-bottom: 8px;
+  text-decoration: none;
 }
 #f4 h4 a {
   font-size: 1vw;
@@ -464,5 +465,4 @@ video {
   font-weight: 600;
   line-height: 20px;
   margin-bottom: 8px;
-  text-decoration:none;
 }
